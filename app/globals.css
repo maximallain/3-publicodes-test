@@ -49,3 +49,7 @@ a {
   place-items: center;
   gap: 1rem;
 }
+
+.vegetables_list {
+  list-style: none;
+}
